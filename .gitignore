@@ -1,0 +1,6 @@
+/target
+SafeCurves/verify-*
+SafeCurves/expand2-*
+SafeCurves/hex-*
+SafeCurves/primes
+SafeCurves/proof/
