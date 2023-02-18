@@ -9,3 +9,7 @@ The primary use case for Eddy255 is to provide a curve where we can perform nati
 This was found using [eccons](https://github.com/kwantam/eccons) thanks to [kwantam](https://github.com/kwantam) and [Srinath Setty](https://twitter.com/srinathtv).
 
 A related curve is [Yafa-108/146](https://eprint.iacr.org/2022/1145), which also embeds `ed25519`, but with a pairing-friendly curve. Eddy255 is much smaller (~2x bits) but it is not pairing-friendly.
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/6984346/219825107-4a8268a9-5436-45ca-bacb-51cfee12343f.jpg">
+</p>
